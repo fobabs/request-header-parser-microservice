@@ -1,14 +1,18 @@
 {
   "name": "request-header-parser-microservice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project #2 of freeCodeCamp's APIs and Microservices Projects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fobabs/request-header-parser-microservice.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "FOBABS",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
