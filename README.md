@@ -17,7 +17,7 @@
 1. You will need to clone this project
 ```bash
 $ git clone https://github.com/fobabs/request-header-parser-microservice.git
-$ cd request-header-parser
+$ cd request-header-parser-microservice
 ```
 2. To install the dependencies needed for the project, run
 ```bash
